@@ -11,9 +11,19 @@ Page({
       path: '/amount-input/demo/index',
     },
     {
+      name: 'FaceDetection',
+      nameZN: '人脸检测',
+      path: '/face-detection/demo/index',
+    },
+    {
       name: 'InputItem',
       nameZN: '列表输入项',
       path: '/input-item/demo/index',
+    },
+    {
+      name: 'Footer',
+      nameZN: '页脚',
+      path: '/footer/demo/index',
     },
     {
       name: 'Modal',
@@ -89,6 +99,11 @@ Page({
       name: 'PageResult',
       nameZN: '结果页',
       path: '/page-result/demo/index',
+    },
+    {
+      name: 'PopUp',
+      nameZN: '弹出菜单',
+      path: '/popup/demo/index',
     },
     {
       name: 'Message',
